@@ -24,7 +24,7 @@ class TaskManager:
 # Пример использования
 task_manager = TaskManager()
 
-task_manager.add_task("Сделать уроки по математике", "01.06.2024")
+task_manager.add_task("Сдать д.з.", "01.06.2024")
 task_manager.add_task("Сходить в магазин", "03.06.2024")
 
 print("Текущие задачи:")
